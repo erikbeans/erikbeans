@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Erik Beans
 
-<!--
-**erikbeans/erikbeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering leader and CTO/advisor with 25+ years in software development and 12 years leading engineering organizations. My work spans cloud platforms, enterprise security, fintech, and developer infrastructure.
 
-Here are some ideas to get you started:
+I enjoy turning complex technical problems into useful products, building strong teams, and staying close to architecture and implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+• Platform engineering, distributed systems, and cloud architecture
+• Identity, access management, OAuth2, and application security
+• API design, integrations, and engineering productivity
+• AI-powered automation and agentic development tools
+
+## Experience
+
+• **Aurris.ai:** CTO / Advisor, leading architecture and design.
+• **FinQuantum.ai:** Led engineering and product development through the first major release, including AI-powered mortgage data workflows and open banking integrations.
+• **Google:** Led teams building Google Cloud datacenter planning platforms and enterprise access management systems serving 1M+ user accounts.
+• **C3.ai:** Led engineering teams responsible for cloud platform infrastructure and security.
+
+## Technologies
+
+Java · Python · JavaScript · TypeScript · Angular · Kubernetes · Google Cloud
+
+## Education
+
+• B.S., Electrical Engineering and Computer Science — UC Berkeley
+• MBA — UC Berkeley, Haas School of Business
+• Certificate, Management Science and Engineering — Stanford University
+
+[Connect on LinkedIn](https://www.linkedin.com/in/erikbeans)
