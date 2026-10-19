@@ -6,17 +6,17 @@ I enjoy turning complex technical problems into useful products, building strong
 
 ## What I work on
 
-• Platform engineering, distributed systems, and cloud architecture
-• Identity, access management, OAuth2, and application security
-• API design, integrations, and engineering productivity
-• AI-powered automation and agentic development tools
+- Platform engineering, distributed systems, and cloud architecture
+- Identity, access management, OAuth2, and application security
+- API design, integrations, and engineering productivity
+- AI-powered automation and agentic development tools
 
 ## Experience
 
-• **Aurris.ai:** CTO / Advisor, leading architecture and design.
-• **FinQuantum.ai:** Led engineering and product development through the first major release, including AI-powered mortgage data workflows and open banking integrations.
-• **Google:** Led teams building Google Cloud datacenter planning platforms and enterprise access management systems serving 1M+ user accounts.
-• **C3.ai:** Led engineering teams responsible for cloud platform infrastructure and security.
+- **Aurris.ai:** CTO / Advisor, leading architecture and design.
+- **FinQuantum.ai:** Led engineering and product development through the first major release, including AI-powered mortgage data workflows and open banking integrations.
+- **Google:** Led teams building Google Cloud datacenter planning platforms and enterprise access management systems serving 1M+ user accounts.
+- **C3.ai:** Led engineering teams responsible for cloud platform infrastructure and security.
 
 ## Technologies
 
@@ -24,8 +24,8 @@ Java · Python · JavaScript · TypeScript · Angular · Kubernetes · Google Cl
 
 ## Education
 
-• B.S., Electrical Engineering and Computer Science — UC Berkeley
-• MBA — UC Berkeley, Haas School of Business
-• Certificate, Management Science and Engineering — Stanford University
+- B.S., Electrical Engineering and Computer Science — UC Berkeley
+- MBA — UC Berkeley, Haas School of Business
+- Certificate, Management Science and Engineering — Stanford University
 
 [Connect on LinkedIn](https://www.linkedin.com/in/erikbeans)
